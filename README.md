@@ -90,7 +90,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 **Marmik Gandhi**  
 `Intern @ [Code Core Gobal]` 
-📧 [marmikgandhigamil.com]  
+📧 [Mail to:](mailto:marmikgandhi@gamil.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/marmik-gandhi-006a55323/) | [GitHub](https://github.com/MarmikGandhi)
 
 ---
