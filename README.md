@@ -62,14 +62,6 @@ npm run dev
 
 ---
 
-## 🖼️ Screenshots
-
-| Home | Cart | Checkout |
-|------|------|----------|
-| ![Home](https://fakeimg.pl/250x150/?text=Home) | ![Cart](https://fakeimg.pl/250x150/?text=Cart) | ![Checkout](https://fakeimg.pl/250x150/?text=Checkout) |
-
----
-
 ## 📌 Intern Contribution
 
 This project was developed during my internship to apply and demonstrate practical frontend development skills.
@@ -99,6 +91,6 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 **Marmik Gandhi**  
 `Intern @ [Code Core Gobal]` 
 📧 [marmikgandhigamil.com]  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/marmik-gandhi-006a55323/) | [GitHub](https://github.com/MarmikGandhi)
 
 ---
