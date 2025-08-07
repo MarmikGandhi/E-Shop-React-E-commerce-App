@@ -91,6 +91,6 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 **Marmik Gandhi**  
 `Intern @ [Code Core Gobal]` 
 📧 [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/marmik-gandhi-006a55323/) | [GitHub](https://github.com/MarmikGandhi)
+🔗 [LinkedIn](https://www.linkedin.com/in/marmik-gandhi/) | [GitHub](https://github.com/MarmikGandhi)
 
 ---
